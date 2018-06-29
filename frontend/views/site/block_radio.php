@@ -1,0 +1,1 @@
+<input type="radio" name="<?= $id_test ?>" value="<?= $test ?>">  <?= $test ?><br>

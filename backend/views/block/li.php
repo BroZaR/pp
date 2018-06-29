@@ -1,0 +1,1 @@
+<li style="color: <?= $color ?>"><?= $li ?></li>

@@ -1,0 +1,1 @@
+<a href="<?= $link ?>" style="text-decoration: none;"><?= $message ?></a>
